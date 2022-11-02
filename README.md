@@ -4,3 +4,5 @@
 이번에 시작하는 프로젝트에서 vue를 사용하게되어 <br/>
 처음으로 vue 공부를 시작!
 
+## REFERENCE
+[인프런 장기효(캡틴판교) Vue.js 강의](https://www.inflearn.com/roadmaps/3)
