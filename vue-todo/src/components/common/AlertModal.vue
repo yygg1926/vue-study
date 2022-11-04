@@ -12,7 +12,7 @@
             <slot name="body">default body</slot>
           </div>
 
-          <div class="modal-footer">
+          <!-- <div class="modal-footer">
             <slot name="footer">
               default footer
               <button
@@ -20,7 +20,7 @@
                 @click="$emit('close')"
               >OK</button>
             </slot>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
